@@ -1,0 +1,86 @@
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\bin\Debug\ONE004-dtexec.exe.config
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\bin\Debug\ONE004-dtexec.exe
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\bin\Debug\ONE004-dtexec.pdb
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE012.csprojAssemblyReference.cache
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.GenerateResource.cache
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.CoreCompileInputs.cache
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.dll
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
+C:\Users\bartek\opt\one012\ONE012.exe.config
+C:\Users\bartek\opt\one012\ONE012.exe
+C:\Users\bartek\opt\one012\ONE012.pdb
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE012.Properties.Resources.resources
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE012.exe
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE012.pdb
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE012.ONE012WIN.resources
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.ResolveComReference.cache
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\Interop.OP_PRINTLib.dll
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.Fody.CopyLocal.cache
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.CopyComplete
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE012.Logowanie.resources
+C:\Users\bartek\one012\ONE012.exe.config
+C:\Users\bartek\one012\ONE012.exe
+C:\Users\bartek\one012\ONE012.pdb
+C:\Users\bartek\opt\one012 — kopia\ONE004-dtexec\obj\Debug\ONE012.csprojAssemblyReference.cache
+C:\Users\bartek\opt\one012 — kopia\ONE004-dtexec\obj\Debug\Interop.OP_PRINTLib.dll
+C:\Users\bartek\opt\one012 — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.ResolveComReference.cache
+C:\Users\bartek\opt\one012 — kopia\ONE004-dtexec\obj\Debug\ONE012.ONE012WIN.resources
+C:\Users\bartek\opt\one012 — kopia\ONE004-dtexec\obj\Debug\ONE012.Properties.Resources.resources
+C:\Users\bartek\opt\one012 — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.GenerateResource.cache
+C:\Users\bartek\opt\one012 — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.CoreCompileInputs.cache
+C:\Users\bartek\opt\one012 — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.Fody.CopyLocal.cache
+C:\Users\bartek\opt\one012 — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.CopyComplete
+C:\Users\bartek\opt\one012 — kopia\ONE004-dtexec\obj\Debug\ONE012.exe
+C:\Users\bartek\opt\one012 — kopia\ONE004-dtexec\obj\Debug\ONE012.pdb
+C:\Users\bartek\opt\one032\ONE004-dtexec\obj\Debug\ONE012.csprojAssemblyReference.cache
+C:\Users\bartek\opt\one032\ONE004-dtexec\obj\Debug\Interop.OP_PRINTLib.dll
+C:\Users\bartek\opt\one032\ONE004-dtexec\obj\Debug\ONE012.csproj.ResolveComReference.cache
+C:\Users\bartek\opt\one032\ONE004-dtexec\obj\Debug\ONE032.ONE032WIN.resources
+C:\Users\bartek\opt\one032\ONE004-dtexec\obj\Debug\ONE032.Properties.Resources.resources
+C:\Users\bartek\opt\one032\ONE004-dtexec\obj\Debug\ONE012.csproj.GenerateResource.cache
+C:\Users\bartek\opt\one032\ONE004-dtexec\obj\Debug\ONE012.csproj.CoreCompileInputs.cache
+C:\Users\bartek\optima 32\ONE032.exe.config
+C:\Users\bartek\optima 32\ONE032.exe
+C:\Users\bartek\optima 32\ONE032.pdb
+C:\Users\bartek\opt\one032\ONE004-dtexec\obj\Debug\ONE012.csproj.Fody.CopyLocal.cache
+C:\Users\bartek\opt\one032\ONE004-dtexec\obj\Debug\ONE012.csproj.CopyComplete
+C:\Users\bartek\opt\one032\ONE004-dtexec\obj\Debug\ONE032.exe
+C:\Users\bartek\opt\one032\ONE004-dtexec\obj\Debug\ONE032.pdb
+C:\Users\magdaw\Documents\optima 32\ONE032.exe.config
+C:\Users\magdaw\Documents\optima 32\ONE032.exe
+C:\Users\magdaw\Documents\optima 32\ONE032.pdb
+C:\Users\magdaw\Documents\Ostrewka\one032 — kopia\ONE004-dtexec\obj\Debug\ONE012.csprojAssemblyReference.cache
+C:\Users\magdaw\Documents\Ostrewka\one032 — kopia\ONE004-dtexec\obj\Debug\Interop.OP_PRINTLib.dll
+C:\Users\magdaw\Documents\Ostrewka\one032 — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.ResolveComReference.cache
+C:\Users\magdaw\Documents\Ostrewka\one032 — kopia\ONE004-dtexec\obj\Debug\ONE032.ONE032WIN.resources
+C:\Users\magdaw\Documents\Ostrewka\one032 — kopia\ONE004-dtexec\obj\Debug\ONE032.Properties.Resources.resources
+C:\Users\magdaw\Documents\Ostrewka\one032 — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.GenerateResource.cache
+C:\Users\magdaw\Documents\Ostrewka\one032 — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\Ostrewka\one032 — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.Fody.CopyLocal.cache
+C:\Users\magdaw\Documents\Ostrewka\one032 — kopia\ONE004-dtexec\obj\Debug\ONE012.csproj.CopyComplete
+C:\Users\magdaw\Documents\Ostrewka\one032 — kopia\ONE004-dtexec\obj\Debug\ONE032.exe
+C:\Users\magdaw\Documents\Ostrewka\one032 — kopia\ONE004-dtexec\obj\Debug\ONE032.pdb
+C:\Users\magdaw\Documents\Ostrewka\ONE002\ONE004-dtexec\obj\Debug\Interop.OP_PRINTLib.dll
+C:\Users\magdaw\Documents\Ostrewka\ONE002\ONE004-dtexec\obj\Debug\ONE012.csproj.ResolveComReference.cache
+C:\Users\magdaw\Documents\Ostrewka\ONE002\ONE004-dtexec\obj\Debug\ONE032.ONE032WIN.resources
+C:\Users\magdaw\Documents\Ostrewka\ONE002\ONE004-dtexec\obj\Debug\ONE032.Properties.Resources.resources
+C:\Users\magdaw\Documents\Ostrewka\ONE002\ONE004-dtexec\obj\Debug\ONE012.csproj.GenerateResource.cache
+C:\Users\magdaw\Documents\Ostrewka\ONE002\ONE004-dtexec\obj\Debug\ONE012.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\Ostrewka\ONE002\ONE004-dtexec\obj\Debug\ONE012.csproj.Fody.CopyLocal.cache
+C:\Users\magdaw\Documents\Ostrewka\ONE002\ONE004-dtexec\obj\Debug\ONE012.csproj.CopyComplete
+C:\Users\magdaw\Documents\Ostrewka\ONE002\ONE004-dtexec\obj\Debug\ONE032.exe
+C:\Users\magdaw\Documents\Ostrewka\ONE002\ONE004-dtexec\obj\Debug\ONE032.pdb
+C:\Users\magdaw\Documents\Ostrewka\ONE002\ONE004-dtexec\obj\Debug\ONE012.csproj.AssemblyReference.cache
+C:\Users\magdaw\Documents\Handen\Import_PW_RW\ONE004-dtexec\obj\Debug\ONE012.csproj.AssemblyReference.cache
+C:\Users\magdaw\Documents\Handen\Import_PW_RW\ONE004-dtexec\obj\Debug\Interop.OP_PRINTLib.dll
+C:\Users\magdaw\Documents\Handen\Import_PW_RW\ONE004-dtexec\obj\Debug\ONE012.csproj.ResolveComReference.cache
+C:\Users\magdaw\Documents\Handen\Import_PW_RW\ONE004-dtexec\obj\Debug\ONE032.ONE032WIN.resources
+C:\Users\magdaw\Documents\Handen\Import_PW_RW\ONE004-dtexec\obj\Debug\ONE032.Properties.Resources.resources
+C:\Users\magdaw\Documents\Handen\Import_PW_RW\ONE004-dtexec\obj\Debug\ONE012.csproj.GenerateResource.cache
+C:\Users\magdaw\Documents\Handen\Import_PW_RW\ONE004-dtexec\obj\Debug\ONE012.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\Handen\Import_PW_RW\ONE004-dtexec\obj\Debug\ONE012.csproj.Fody.CopyLocal.cache
+C:\Users\magdaw\Documents\Handen\Import_PW_RW\ONE004-dtexec\obj\Debug\ONE012.csproj.CopyComplete
+C:\Users\magdaw\Documents\Handen\Import_PW_RW\ONE004-dtexec\obj\Debug\ONE032.exe
+C:\Users\magdaw\Documents\Handen\Import_PW_RW\ONE004-dtexec\obj\Debug\ONE032.pdb

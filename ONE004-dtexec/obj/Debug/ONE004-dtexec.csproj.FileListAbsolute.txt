@@ -1,0 +1,40 @@
+C:\Users\LattePotężnie\Desktop\praca Angular i C#\one004\ONE004-dtexec\ONE004-dtexec\bin\Debug\ONE004-dtexec.exe.config
+C:\Users\LattePotężnie\Desktop\praca Angular i C#\one004\ONE004-dtexec\ONE004-dtexec\bin\Debug\ONE004-dtexec.exe
+C:\Users\LattePotężnie\Desktop\praca Angular i C#\one004\ONE004-dtexec\ONE004-dtexec\bin\Debug\ONE004-dtexec.pdb
+C:\Users\LattePotężnie\Desktop\praca Angular i C#\one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004_dtexec.Properties.Resources.resources
+C:\Users\LattePotężnie\Desktop\praca Angular i C#\one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004-dtexec.csproj.GenerateResource.cache
+C:\Users\LattePotężnie\Desktop\praca Angular i C#\one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004-dtexec.csproj.CoreCompileInputs.cache
+C:\Users\LattePotężnie\Desktop\praca Angular i C#\one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004-dtexec.exe
+C:\Users\LattePotężnie\Desktop\praca Angular i C#\one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004-dtexec.pdb
+C:\Users\LattePotężnie\Desktop\praca Angular i C#\one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004_dtexec.title.resources
+C:\Users\LattePotężnie\Desktop\praca Angular i C#\one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004-dtexec.csprojAssemblyReference.cache
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec\ONE004-dtexec\bin\Debug\ONE004-dtexec.exe.config
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec\ONE004-dtexec\bin\Debug\ONE004-dtexec.exe
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec\ONE004-dtexec\bin\Debug\ONE004-dtexec.pdb
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004-dtexec.csprojAssemblyReference.cache
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004_dtexec.title.resources
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004_dtexec.Properties.Resources.resources
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004-dtexec.csproj.GenerateResource.cache
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004-dtexec.csproj.CoreCompileInputs.cache
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004-dtexec.exe
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec\ONE004-dtexec\obj\Debug\ONE004-dtexec.pdb
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec — kopia\ONE004-dtexec\bin\Debug\ONE004-dtexec.exe.config
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec — kopia\ONE004-dtexec\bin\Debug\ONE004-dtexec.exe
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec — kopia\ONE004-dtexec\bin\Debug\ONE004-dtexec.pdb
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE004-dtexec.csprojAssemblyReference.cache
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE004_dtexec.Title.resources
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE004_dtexec.Properties.Resources.resources
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE004-dtexec.csproj.GenerateResource.cache
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE004-dtexec.csproj.CoreCompileInputs.cache
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE004-dtexec.exe
+C:\Users\LattePotężnie\Desktop\P R A C A\arc one004\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE004-dtexec.pdb
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\bin\Debug\ONE004-dtexec.exe.config
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\bin\Debug\ONE004-dtexec.exe
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\bin\Debug\ONE004-dtexec.pdb
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE004-dtexec.csprojAssemblyReference.cache
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE012.Title.resources
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE004_dtexec.Properties.Resources.resources
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE004-dtexec.csproj.GenerateResource.cache
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE004-dtexec.csproj.CoreCompileInputs.cache
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE004-dtexec.exe
+C:\Users\bartek\opt\Nowy folder\ONE004-dtexec — kopia\ONE004-dtexec\obj\Debug\ONE004-dtexec.pdb
